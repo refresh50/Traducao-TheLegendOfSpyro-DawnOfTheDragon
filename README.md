@@ -34,7 +34,7 @@ Se o MD5 do seu disco for outro, o patch **não** vai aplicar. O patch não acom
 
 
 1. Baixe o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Em **XDelta Patch**, escolha `Spyro-DotD-PTBR-Refresh.xdelta`.
+2. Em **XDelta Patch**, escolha `The Legend of Spyro  - Dawn of the Dragon (Patch BR).xdelta`.
 3. Em **Original file**, escolha a ISO original.
 4. Clique em **Apply patch**.
 
