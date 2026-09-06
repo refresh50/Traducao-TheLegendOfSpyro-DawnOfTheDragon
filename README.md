@@ -41,18 +41,16 @@ Se o MD5 do seu disco for outro, o patch **não** vai aplicar. O patch não acom
 
 
 
-## 🖼️ Capturas de tela
+## Capturas de tela
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab8a506b-ffe9-48cf-a6e6-4754ba6c3294" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/c7d5f781-d533-4fdc-bdd2-de3afe8f975c" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/ea111287-6594-4380-aabb-a2db54dfd371" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/6e94118a-2ade-4444-b961-5a9ff81db169" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/76ca1b6e-de7b-4e17-86e2-c8ca33862a73" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/db633d7f-83f7-47ac-afa2-167e3623c513" width="700"><br>
-  <img src="https://github.com/user-attachments/assets/b6a0eb79-e28b-47f9-8b3c-cee1a10b1f19" width="700">
+  <img src="https://github.com/user-attachments/assets/f22c908f-9eb8-4852-b6b4-8cda1eede1a7" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/a9205114-70e4-4cae-9d0c-475e0907624d" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/26c7c758-7a21-4e89-9233-67e9f57d8e1a" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/d7571577-ff7c-4778-9f7e-bd172ed07f56" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/cfd88dce-0c81-4603-9b54-fc54a372d257" width="700"><br>
+  <img src="https://github.com/user-attachments/assets/0059b823-1647-4f09-a470-f44d0d0142fe" width="700">
 </p>
-
 
 ## Aviso legal
 
